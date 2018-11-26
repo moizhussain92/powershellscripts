@@ -1,0 +1,26 @@
+ITSVC0
+REDMOND\ECWDGTVM
+PARTNERS\Domain Admins
+PARTNERS\prtssagt
+REDMOND\_backup
+REDMOND\_gotools
+REDMOND\ExNet Security
+REDMOND\InfoSec Secure Environment
+REDMOND\ITAdmin-Global
+REDMOND\ITG-ADMIN
+REDMOND\ITG-GDCTools
+REDMOND\ITG-MCSS
+REDMOND\lpoaasvc
+REDMOND\LPOMONSG
+REDMOND\SETOReadiness
+REDMOND\tvmscan1
+REDMOND\SMS-CP2
+REDMOND\Domain Admins
+NORTHAMERICA\Domain Admins
+Redmond\JIT_ECIT-MBS-SOX-ServerAdmin_ElevatedAccess
+REDMOND\SMS-CP1
+ITSVC0
+Fareast\JIT_EC-MBS-UAT-fareast_ElevatedAccess
+Redmond\JIT_EC-MBS-UAT-Redmond_ElevatedAccess
+Fareast\JIT_MBS-Dev-fareast_ElevatedAccess
+Redmond\JIT_MBS-Dev-Redmond_ElevatedAccess
