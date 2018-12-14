@@ -2,7 +2,8 @@
 
 $req = Get-WebRequest
 
-$Timeout = 300 ## seconds
+ 
+$Timeout = 300 #Seconds
 ## Start the timer
 $timer = [Diagnostics.Stopwatch]::StartNew()
 
